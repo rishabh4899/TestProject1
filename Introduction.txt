@@ -1,5 +1,5 @@
 Introduction To Our Project
----------------------------------
+--------------------------
 The project our team is currently working on is to develop a website which is totally devoted to Games. The main purpose of the website
 is to offer the users a platform from where they can access everything related to games. The website is distributed into three main sections
 which are as follows.
