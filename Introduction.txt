@@ -1,0 +1,24 @@
+Introduction To Our Project
+--------------------------------------
+The project our team is currently working on is to develop a website which is totally devoted to Games. The main purpose of the website
+is to offer the users a platform from where they can access everything related to games. The website is distributed into three main sections
+which are as follows.
+
+The Gaming store:
+	The store section is generally a place where the user can buy games at low price than the usual with all the updated and
+	remastered versions of games with special offers and great deals occasionally. Moreover, if you have a game no longer in use,
+	the store section offers you a chance to sell it online with authentic buyers(Terms & Conditions apply).
+
+The Affiliate Program:
+	"Want to earn some money rather than just spending it on games?" Become a part of our Affiliate program. Our Affiliate
+	program works like this:
+	
+	1.) Sign up with our website to get a authentic verified account.
+	2.) Join the Affiliate program for free
+	3.) Link your any other Social media source (Website, Blog, Instagram, etc.) and share the link of our games on your platform
+	for others to buy it. For every sell of a game within 24hrs through your link will provide you 2.5% of the purchase made.
+
+The Learning Section:
+	We aim to not only provide user the privilege of buying games, but we also tend to provide tutorials and lessons on how to
+	create your own 2D or 3D games using the easiest and elaborated ways. The lessons can also be done on demand so the user
+	can always drop off their ideas in the comment section.
